@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Futbol World Events</string>
+    <string name="client_id">40120344352-6q7rnl5pqai1ldo45820bg6l4si613qu.apps.googleusercontent.com</string>
+    <string name="bienvenido_nde_nuevo">Bienvenido\nDe Nuevo</string>
+    <string name="imagen">imagen</string>
+    <string name="correo">Correo</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="inicia_con_google">Inicia con google</string>
+    <string name="login">login</string>
+    <string name="inicia_con_facebbok">Inicia con facebook</string>
+    <string name="eres_nuevo_usuario_registrate">¿Eres nuevo usuario? Registrate</string>
+    <string name="crea_tu_ncuenta">Crea tu \nCuenta</string>
+    <string name="nombre">Nombre</string>
+    <string name="ya_tienes_una_cuenta_iniciar_sesi_n">¿Ya tienes una cuenta? Iniciar sesión</string>
+    <string name="nombreApp">Futbol World Events</string>
+    <string name="descripcion">Futbol World Events es la aplicación definitiva para los amantes del fútbol que desean mantenerse al tanto de los eventos deportivos más emocionantes en todo el mundo.</string>
+    <string name="mira_los_ultimos_partidos_nde_la_champions_league">Mira Los Ultimos Partidos \nDe La Champions League. ⚽</string>
+    <string name="buscar">Buscar</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="pagina_web">Pagina Web</string>
+    <string name="ultimos_partidos">Ultimos Partidos</string>
+    <string name="configuracion">Salir</string>
+    <string name="perfil">Perfil</string>
+    <string name="incio">Incio</string>
+    <string name="mensages">Comentarios</string>
+    <string name="title">title</string>
+    <string name="subtitle">subtitle</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="calendario">WEB</string>
+    <string name="compartir">Compartir</string>
+    <string name="galeria">Galeria De Finales</string>
+    <string name="salir">Salir</string>
+</resources>
